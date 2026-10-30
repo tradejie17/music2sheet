@@ -1,0 +1,9 @@
+{
+  "onset_acc_median": 0.92,
+  "onset_acc_mean": 0.71,
+  "staff_acc_mean": 0.87,
+  "meter_ok": 0.8,
+  "key_ok": 0.77,
+  "pickup_ok": 0.67,
+  "render_ok": 1.0
+}

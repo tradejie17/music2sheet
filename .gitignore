@@ -1,0 +1,16 @@
+# data & caches
+data/
+*.wav
+*.mp3
+*.flac
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+# node
+node_modules/
+dist/
+# os
+.DS_Store
